@@ -1,0 +1,3 @@
+name: pulumi-post-repro
+description: 
+runtime: nodejs
